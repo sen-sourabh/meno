@@ -1,13 +1,13 @@
-# MENO
+# UMENO
 
 ## Description
 
-[Meno](https://github.com/sen-sourabh/meno) is the unified messaging and notification services provider to use in your projects.
+[UMeno](https://github.com/sen-sourabh/meno) is the unified messaging and notification services provider to use in your projects.
 
 ## Installation
 
 ```bash
-$ npm install meno
+$ npm install umeno
 ```
 
 ## Stay in touch
@@ -18,4 +18,4 @@ $ npm install meno
 
 ## License
 
-Meno is [GNU GENERAL PUBLIC LICENSE](LICENSE).
+UMeno is [GNU GENERAL PUBLIC LICENSE](LICENSE).

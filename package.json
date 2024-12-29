@@ -1,11 +1,12 @@
 {
   "name": "meno",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Meno: Unified Messaging and Notification services availebl to use",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sen-sourabh/meno.git"
   },
+  "main": "dist/main.js",
   "keywords": [
     "meno",
     "sourabh",
